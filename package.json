@@ -1,0 +1,24 @@
+{
+  "name": "ogsCalendarServer",
+  "version": "1.0.0",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "main": "ogsCalendarServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ogsCalendarServer.js"
+  },
+  "author": "Ripan Halder",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "consolidate": "^0.15.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "log4js": "^4.3.2",
+    "mongoose": "^5.6.0",
+    "nodemon": "^1.19.1",
+    "properties-reader": "^0.2.0",
+    "swagger-jsdoc": "^3.2.7",
+    "swagger-ui-express": "^4.0.2"
+  }
+}

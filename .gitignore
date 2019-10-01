@@ -1,0 +1,38 @@
+# temp files
+.DS_Store
+.tmp
+.sass-cache
+
+# npm & bower
+node_modules/
+package-lock.json
+
+# custom gulp settings
+/gulp/.gulp_settings.json
+
+# ionic fonts
+/app/main/assets/fonts/ionicons.*
+
+# IDE
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/*
+
+# generated docs
+/docs/*
+
+# JSdocs
+/build/
+
+# SonarQube
+.scannerwork
+
+# Log files
+*.log
+
+# Testing Coverage report folder
+.nyc_output/
+
+#sonarLint
+.sonarlint

@@ -1,0 +1,13 @@
+---
+swagger: "2.0"
+info:
+  description: This is a simple 2.0 API definition.
+  version: 1.0.0
+  title: LB-Mobile-BE
+  license:
+    name: Apache 2.0
+    url: https://www.apache.org/licenses/LICENSE-2.0
+consumes:
+- application/json
+produces:
+- application/json
